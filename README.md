@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 ###### Skills :
 
-<img src="./images/JavaScript.svg" width="50" height="50">
-<img src="./images/Tailwind CSS.svg" width="50" height="50">
-<img src="./images/React.svg" width="50" height="50">
-<img src="./images/Express.svg" width="50" height="50">
-<img src="./images/MongoDB.svg" width="50" height="50">
-<img src="./images/PostgresSQL.svg" width="50" height="50">
-<img src="./images/nextjs.svg" width="50" height="50">
-<img src="./images/TypeScript.svg" width="50" height="50">
-<img src="./images/Node.js.svg" width="50" height="50">
+<div>
+    <img src="./images/JavaScript.svg" width="50" height="50">
+    <img src="./images/Tailwind CSS.svg" width="50" height="50">
+    <img src="./images/React.svg" width="50" height="50">
+    <img src="./images/Express.svg" width="50" height="50">
+    <img src="./images/MongoDB.svg" width="50" height="50">
+    <img src="./images/PostgresSQL.svg" width="50" height="50">
+    <img src="./images/nextjs.svg" width="50" height="50">
+    <img src="./images/TypeScript.svg" width="50" height="50">
+    <img src="./images/Node.js.svg" width="50" height="50">
+</div>
