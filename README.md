@@ -1,6 +1,4 @@
-[header](./images/github-header-banner.png)
-
-## Hi there 👋
+![header](./images/github-header-banner.png)
 
 <!--
 **zeads/zeads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
