@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ###### Skills :
 
 <div>
-    <img src="./images/JavaScript.svg" width="50" height="50">
+    <img src="./images/JavaScript.svg" alt="JavaScript" width="50" height="50">
     <img src="./images/Tailwind CSS.svg" width="50" height="50">
     <img src="./images/React.svg" width="50" height="50">
     <img src="./images/Express.svg" width="50" height="50">
