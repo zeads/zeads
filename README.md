@@ -18,19 +18,11 @@ Here are some ideas to get you started:
 ###### Skills :
 
 <img src="./images/JavaScript.svg" width="50" height="50">
-&nbsp;
 <img src="./images/Tailwind CSS.svg" width="50" height="50">
-&nbsp;
 <img src="./images/React.svg" width="50" height="50">
-&nbsp;
 <img src="./images/Express.svg" width="50" height="50">
-&nbsp;
 <img src="./images/MongoDB.svg" width="50" height="50">
-&nbsp;
 <img src="./images/PostgresSQL.svg" width="50" height="50">
-&nbsp;
 <img src="./images/nextjs.svg" width="50" height="50">
-&nbsp;
 <img src="./images/TypeScript.svg" width="50" height="50">
-&nbsp;
 <img src="./images/Node.js.svg" width="50" height="50">
